@@ -1,0 +1,8 @@
+name: CNRandomTP
+authors: [franga2000]
+version: 1
+description: Random teleport
+main: com.franga2000.CNRandomTP.Main
+commands:
+    randomtp:
+        description: Teleports you to a random location

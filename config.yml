@@ -1,0 +1,16 @@
+biomes:
+- PLAINS
+- FOREST
+worlds:
+- world
+worldSize: 1000
+locationY: 250
+presets:
+  war:
+    '1': world,0,100,0
+    '2': world,100,100,100
+prefix: '&8[&3CN&8]'
+messages:
+  onTeleport: '&eYou have 60 seconds of invincibility!'
+  NotPlayer: '&cOnly players can use this command!'
+  WorldDenied: '&bThis command is enabled only in Overworld! Have fun exploring by foot.'
