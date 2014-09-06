@@ -36,8 +36,6 @@ public class Main extends JavaPlugin implements Listener {
 		for(String b : getConfig().getStringList("biomes")) {
 			biomes.add(Biome.valueOf(b.replace(' ', '_')));
 		}
-		
-		
 	}
 	
 	public void onDisable() {

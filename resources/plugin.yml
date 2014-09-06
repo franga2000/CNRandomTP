@@ -1,6 +1,6 @@
 name: CNRandomTP
 authors: [franga2000]
-version: 1
+version: 1.1
 description: Random teleport
 main: com.franga2000.CNRandomTP.Main
 commands:
