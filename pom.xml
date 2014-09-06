@@ -16,9 +16,9 @@
       </plugin>
     </plugins>
 	<resources>
-		<resource>
-			<directory>resources</directory>
-		</resource>
+	  <resource>
+		<directory>resources</directory>
+	  </resource>
 	</resources>
   </build>
     <repositories>
